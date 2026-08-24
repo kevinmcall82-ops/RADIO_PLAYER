@@ -1,4 +1,4 @@
-// JSON DE CONFIGURAÃ‡ÃƒO DE ESTAÃ‡Ã•ES MULTIPLAS COM DESCRIÃ‡ÃƒO
+// JSON DE Configurações DE Estações MULTIPLAS COM DESCRIÃ‡ÃƒO
 // para shoutcast/icecast use os termos especÃ­ficos.
 
 // shoutcast V2: API: "<IP>:<porta>/stats?sid=id&json=1" historyAPI: "<IP>:<porta>/played.html"
