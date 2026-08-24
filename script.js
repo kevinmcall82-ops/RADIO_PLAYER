@@ -1,4 +1,4 @@
-        import { stations } from './estacoes.js';
+        import { stations } from './estações.js';
         import { updateIntervalTime, isValidTrack, fetchItunesData, fetchStationData, fetchLyrics } from './api_config.js';
 
 // ==========================================
